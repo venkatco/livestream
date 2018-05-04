@@ -5,8 +5,8 @@
 
 	"homepage": "https://example.com/",
 	"requires": "4.5",
-	"tested": "4.8",
-	"last_updated": "2017-01-01 16:17:00",
+	"tested": "4.9.5",
+	"last_updated": "2018-04-05 13:10:00",
 	"upgrade_notice": "Here's why you should upgrade...",
 
 	"author": "Janis Elsts",
@@ -15,8 +15,7 @@
 	"sections": {
 		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
 		"installation": "(Recommended) Installation instructions.",
-		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>",
-		"custom_section": "This is a custom section labeled 'Custom Section'."
+		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>"
 	},
 	
 	"icons" : {
