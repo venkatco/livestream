@@ -1,16 +1,16 @@
 {
-	"name": "ht-click",
+	"name": "HoliThemes Click",
 	"version": "1.1",
 	"download_url": "https://venkat.co/wp-content/uploads/2018/05/ht-click.zip",
 
-	"homepage": "https://www.venkat.co/",
+	"homepage": "https://example.com/",
 	"requires": "4.5",
-	"tested": "4.9.5",
-	"last_updated": "2018-04-05 16:17:00",
+	"tested": "4.8",
+	"last_updated": "2017-01-01 16:17:00",
 	"upgrade_notice": "Here's why you should upgrade...",
 
-	"author": "author name",
-	"author_homepage": "https://www.venkat.co/",
+	"author": "Janis Elsts",
+	"author_homepage": "http://example.com/",
 
 	"sections": {
 		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
